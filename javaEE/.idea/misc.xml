@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch02-hello-springmvc" />
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch03-requestmapping" />
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch04-recevieparam" />
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch05-return" />
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch07-ssm" />
+    <file type="web" url="file://F:/springmvc/springmvc-project/ch08-exception-handler" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="F:/mybatis/mybatis-project/hello-mybatis/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch01-hello-springmvc/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch02-hello-springmvc/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch03-requestmapping/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch04-recevieparam/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch05-return/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch07-ssm/pom.xml" />
+        <option value="F:/springmvc/springmvc-project/ch08-exception-handler/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

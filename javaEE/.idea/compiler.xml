@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-mybatis" />
+        <module name="ch04-recevieparam" />
+        <module name="ch08-exception-handler" />
+        <module name="ch05-return" />
+        <module name="ch07-ssm" />
+        <module name="ch02-hello-springmvc" />
+        <module name="ch03-requestmapping" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01-hello-springmvc" target="13" />
+      <module name="ch02-hello-springmvc" target="13" />
+      <module name="ch03-requestmapping" target="13" />
+      <module name="ch04-recevieparam" target="13" />
+      <module name="ch05-return" target="13" />
+      <module name="ch07-ssm" target="13" />
+      <module name="ch08-exception-handler" target="13" />
+      <module name="hello-mybatis" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

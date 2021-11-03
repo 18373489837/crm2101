@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://F:/mybatis/mybatis-project/hello-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://F:/mybatis/mybatis-project/hello-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch02-hello-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch02-hello-springmvc/src/main/resources" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch03-requestmapping/src/main/java" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch04-recevieparam/src/main/java" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch05-return/src/main/java" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch07-ssm/src/main/java" charset="UTF-8" />
+    <file url="file://F:/springmvc/springmvc-project/ch08-exception-handler/src/main/java" charset="UTF-8" />
+  </component>
+</project>
